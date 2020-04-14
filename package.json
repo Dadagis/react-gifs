@@ -27,6 +27,7 @@
     "webpack-dev-server": "^3.1.10"
   },
   "dependencies": {
+    "@giphy/js-fetch-api": "^1.5.7",
     "react": "16.2",
     "react-dom": "16.2"
   },
